@@ -1,0 +1,576 @@
+2026-07-15 15:23:29 | INFO     | WebElement[Login Page -> Username input]: with value 'admin'
+2026-07-15 15:25:14 | INFO     | WebElement[Login Page -> Username input]: with value 'admin'
+2026-07-15 15:58:59 | INFO     | WebElement[Login Page -> Username input]: with value 'admin'
+2026-07-15 16:46:50 | INFO     | WebElement[Login Page -> Message]: get inner text
+2026-07-15 16:55:28 | INFO     | WebElement[Login Page -> Success Message]: get inner text
+2026-07-15 16:55:52 | INFO     | WebElement[Login Page -> Success Message]: get inner text
+2026-07-15 16:58:55 | INFO     | WebElement[Login Page -> Success Message]: get inner text
+2026-07-15 17:00:22 | INFO     | WebElement[Login Page -> Success Message]: get inner text
+2026-07-15 17:07:15 | INFO     | WebElement[Login Page -> Success Message]: get inner text2026-07-28 13:54:51 | INFO     | WebElement[Кнопка для JS Alert]: click
+2026-07-28 13:54:52 | INFO     | WebElement[Кнопка для JS Confirm]: click
+2026-07-28 13:54:52 | INFO     | WebElement[Кнопка для JS Confirm]: click
+2026-07-28 13:54:52 | INFO     | WebElement[Кнопка для JS Prompt]: click
+2026-07-28 14:00:35 | INFO     | WebElement[Кнопка для JS Alert]: click
+2026-07-28 14:06:25 | INFO     | WebElement[Кнопка для JS Alert]: click
+2026-07-28 14:06:25 | INFO     | WebElement[Кнопка для JS Confirm]: click
+2026-07-28 14:06:26 | INFO     | WebElement[Кнопка для JS Confirm]: click
+2026-07-28 14:06:26 | INFO     | WebElement[Кнопка для JS Prompt]: click
+2026-07-28 14:06:26 | INFO     | WebElement[Секция результата]: get text content
+2026-07-28 14:06:26 | INFO     | WebElement[Секция результата]: text content = 'You entered: '
+2026-08-05 13:04:45 | INFO     | WebElement[Кнопка для JS Alert]: click
+2026-08-05 13:04:46 | INFO     | WebElement[Кнопка для JS Confirm]: click
+2026-08-05 13:04:46 | INFO     | WebElement[Кнопка для JS Confirm]: click
+2026-08-05 13:04:46 | INFO     | WebElement[Кнопка для JS Prompt]: click
+2026-08-05 13:04:46 | INFO     | WebElement[Секция результата]: get text content
+2026-08-05 13:04:46 | INFO     | WebElement[Секция результата]: text content = 'You entered: '
+2026-08-05 13:36:38 | INFO     | WebElement[Кнопка для JS Alert]: click
+2026-08-05 13:36:38 | INFO     | WebElement[Кнопка для JS Confirm]: click
+2026-08-05 13:36:38 | INFO     | WebElement[Кнопка для JS Confirm]: click
+2026-08-05 13:36:38 | INFO     | WebElement[Кнопка для JS Prompt]: click
+2026-08-05 13:36:38 | INFO     | WebElement[Секция результата]: get text content
+2026-08-05 13:36:38 | INFO     | WebElement[Секция результата]: text content = 'You entered: '
+2026-08-05 13:43:10 | INFO     | WebElement[Кнопка для JS Alert]: click
+2026-08-05 13:43:10 | INFO     | WebElement[Кнопка для JS Confirm]: click
+2026-08-05 13:43:10 | INFO     | WebElement[Кнопка для JS Confirm]: click
+2026-08-05 13:43:10 | INFO     | WebElement[Кнопка для JS Prompt]: click
+2026-08-05 13:43:10 | INFO     | WebElement[Секция результата]: get text content
+2026-08-05 13:43:10 | INFO     | WebElement[Секция результата]: text content = 'You entered: '
+2026-08-05 13:57:20 | INFO     | WebElement[Кнопка для JS Alert]: click
+2026-08-05 13:57:20 | INFO     | WebElement[Кнопка для JS Confirm]: click
+2026-08-05 13:57:20 | INFO     | WebElement[Кнопка для JS Confirm]: click
+2026-08-05 13:57:20 | INFO     | WebElement[Кнопка для JS Prompt]: click
+2026-08-05 13:57:21 | INFO     | WebElement[Секция результата]: get text content
+2026-08-05 13:57:21 | INFO     | WebElement[Секция результата]: text content = 'You entered: '
+2026-08-05 14:00:16 | INFO     | WebElement[Кнопка для JS Alert]: click
+2026-08-05 14:00:17 | INFO     | WebElement[Кнопка для JS Confirm]: click
+2026-08-05 14:00:17 | INFO     | WebElement[Кнопка для JS Confirm]: click
+2026-08-05 14:00:17 | INFO     | WebElement[Кнопка для JS Prompt]: click
+2026-08-05 14:00:17 | INFO     | WebElement[Секция результата]: get text content
+2026-08-05 14:00:17 | INFO     | WebElement[Секция результата]: text content = 'You entered: '
+2026-08-05 14:03:53 | INFO     | WebElement[Кнопка для JS Alert]: click
+2026-08-05 14:03:53 | INFO     | WebElement[Кнопка для JS Confirm]: click
+2026-08-05 14:03:53 | INFO     | WebElement[Кнопка для JS Confirm]: click
+2026-08-05 14:03:53 | INFO     | WebElement[Кнопка для JS Prompt]: click
+2026-08-05 14:03:53 | INFO     | WebElement[Секция результата]: get text content
+2026-08-05 14:03:53 | INFO     | WebElement[Секция результата]: text content = 'You entered: '
+2026-08-05 14:05:06 | INFO     | WebElement[Кнопка для JS Alert]: click
+2026-08-05 14:05:06 | INFO     | WebElement[Кнопка для JS Confirm]: click
+2026-08-05 14:05:06 | INFO     | WebElement[Кнопка для JS Confirm]: click
+2026-08-05 14:05:06 | INFO     | WebElement[Кнопка для JS Prompt]: click
+2026-08-05 14:05:06 | INFO     | WebElement[Секция результата]: get text content
+2026-08-05 14:05:06 | INFO     | WebElement[Секция результата]: text content = 'You entered: '
+2026-08-05 14:07:13 | INFO     | WebElement[Кнопка для JS Alert]: click
+2026-08-05 14:07:13 | INFO     | WebElement[Кнопка для JS Confirm]: click
+2026-08-05 14:07:13 | INFO     | WebElement[Кнопка для JS Confirm]: click
+2026-08-05 14:07:13 | INFO     | WebElement[Кнопка для JS Prompt]: click
+2026-08-05 14:07:13 | INFO     | WebElement[Секция результата]: get text content
+2026-08-05 14:07:13 | INFO     | WebElement[Секция результата]: text content = 'You entered: '
+2026-08-05 14:10:00 | INFO     | WebElement[Кнопка для JS Alert]: click
+2026-08-05 14:10:00 | INFO     | WebElement[Кнопка для JS Confirm]: click
+2026-08-05 14:10:00 | INFO     | WebElement[Кнопка для JS Confirm]: click
+2026-08-05 14:10:00 | INFO     | WebElement[Кнопка для JS Prompt]: click
+2026-08-05 14:10:00 | INFO     | WebElement[Секция результата]: get text content
+2026-08-05 14:10:00 | INFO     | WebElement[Секция результата]: text content = 'You entered: '
+2026-08-05 14:33:31 | INFO     | WebElement[Кнопка для JS Alert]: click
+2026-08-05 14:33:31 | INFO     | WebElement[Кнопка для JS Confirm]: click
+2026-08-05 14:33:31 | INFO     | WebElement[Кнопка для JS Confirm]: click
+2026-08-05 14:33:31 | INFO     | WebElement[Кнопка для JS Prompt]: click
+2026-08-05 14:33:31 | INFO     | WebElement[Секция результата]: get text content
+2026-08-05 14:33:31 | INFO     | WebElement[Секция результата]: text content = 'You entered: '
+2026-08-05 14:33:48 | INFO     | WebElement[Кнопка для JS Alert]: click
+2026-08-05 14:33:49 | INFO     | WebElement[Кнопка для JS Confirm]: click
+2026-08-05 14:33:49 | INFO     | WebElement[Кнопка для JS Confirm]: click
+2026-08-05 14:33:49 | INFO     | WebElement[Кнопка для JS Prompt]: click
+2026-08-05 14:33:49 | INFO     | WebElement[Секция результата]: get text content
+2026-08-05 14:33:49 | INFO     | WebElement[Секция результата]: text content = 'You entered: '
+2026-08-05 17:57:04 | INFO     | WebElement[Кнопка для JS Alert]: click
+2026-08-05 17:57:04 | INFO     | WebElement[Кнопка для JS Confirm]: click
+2026-08-05 17:57:04 | INFO     | WebElement[Кнопка для JS Confirm]: click
+2026-08-05 17:57:04 | INFO     | WebElement[Кнопка для JS Prompt]: click
+2026-08-05 17:57:04 | INFO     | WebElement[Секция результата]: get text content
+2026-08-05 17:57:04 | INFO     | WebElement[Секция результата]: text content = 'You entered: '
+2026-08-14 18:45:07 | INFO     | WebElement[Кнопка для JS Alert]: click
+2026-08-14 18:45:07 | INFO     | WebElement[Кнопка для JS Confirm]: click
+2026-08-14 18:45:07 | INFO     | WebElement[Кнопка для JS Confirm]: click
+2026-08-14 18:45:08 | INFO     | WebElement[Кнопка для JS Prompt]: click
+2026-08-14 18:45:08 | INFO     | WebElement[Секция результата]: get text content
+2026-08-14 18:45:08 | INFO     | WebElement[Секция результата]: text content = 'You entered: '
+2026-08-19 11:51:45 | INFO     | WebElement[Slider]: get attribute 'min'
+2026-08-19 11:51:45 | INFO     | WebElement[Slider]: attribute 'min' = '0.0'
+2026-08-19 11:53:02 | INFO     | WebElement[Slider]: get attribute 'min'
+2026-08-19 11:53:02 | INFO     | WebElement[Slider]: attribute 'min' = '0.0'
+2026-08-19 11:53:02 | INFO     | WebElement[Slider]: get attribute 'max'
+2026-08-19 11:53:02 | INFO     | WebElement[Slider]: attribute 'max' = '5.0'
+2026-08-19 11:54:53 | INFO     | WebElement[Slider]: get attribute 'min'
+2026-08-19 11:54:53 | INFO     | WebElement[Slider]: attribute 'min' = '0.0'
+2026-08-19 11:54:53 | INFO     | WebElement[Slider]: get attribute 'max'
+2026-08-19 11:54:53 | INFO     | WebElement[Slider]: attribute 'max' = '5.0'
+2026-08-19 11:54:53 | INFO     | WebElement[Slider]: with value '3.8888766814805162'
+2026-08-19 11:56:58 | INFO     | WebElement[Slider]: get attribute 'min'
+2026-08-19 11:56:58 | INFO     | WebElement[Slider]: attribute 'min' = '0.0'
+2026-08-19 11:56:58 | INFO     | WebElement[Slider]: get attribute 'max'
+2026-08-19 11:56:58 | INFO     | WebElement[Slider]: attribute 'max' = '5.0'
+2026-08-19 11:58:20 | INFO     | WebElement[Slider]: get attribute 'min'
+2026-08-19 11:58:20 | INFO     | WebElement[Slider]: attribute 'min' = '0.0'
+2026-08-19 11:58:20 | INFO     | WebElement[Slider]: get attribute 'max'
+2026-08-19 11:58:20 | INFO     | WebElement[Slider]: attribute 'max' = '5.0'
+2026-08-19 11:58:20 | INFO     | WebElement[Slider]: with value '2.63'
+2026-08-19 12:00:46 | INFO     | WebElement[Slider]: get attribute 'min'
+2026-08-19 12:00:46 | INFO     | WebElement[Slider]: attribute 'min' = '0.0'
+2026-08-19 12:00:46 | INFO     | WebElement[Slider]: get attribute 'max'
+2026-08-19 12:00:46 | INFO     | WebElement[Slider]: attribute 'max' = '5.0'
+2026-08-19 12:05:06 | INFO     | WebElement[Slider]: get attribute 'min'
+2026-08-19 12:05:07 | INFO     | WebElement[Slider]: attribute 'min' = '0.0'
+2026-08-19 12:05:07 | INFO     | WebElement[Slider]: get attribute 'max'
+2026-08-19 12:05:07 | INFO     | WebElement[Slider]: attribute 'max' = '5.0'
+2026-08-19 12:11:34 | INFO     | WebElement[Slider]: get attribute 'min'
+2026-08-19 12:11:34 | INFO     | WebElement[Slider]: attribute 'min' = '0.0'
+2026-08-19 12:11:34 | INFO     | WebElement[Slider]: get attribute 'max'
+2026-08-19 12:11:34 | INFO     | WebElement[Slider]: attribute 'max' = '5.0'
+2026-08-19 12:11:34 | INFO     | WebElement[Slider]: get attribute 'step'
+2026-08-19 12:11:34 | INFO     | WebElement[Slider]: attribute 'step' = '0.5'
+2026-08-19 12:11:34 | INFO     | WebElement[Slider]: get attribute 'step'
+2026-08-19 12:11:34 | INFO     | WebElement[Slider]: attribute 'step' = '0.5'
+2026-08-19 12:11:34 | INFO     | WebElement[Slider]: get attribute 'value'
+2026-08-19 12:11:34 | INFO     | WebElement[Slider]: attribute 'value' = '0'
+2026-08-19 12:11:34 | INFO     | WebElement[Slider]: get attribute 'value'
+2026-08-19 12:11:34 | INFO     | WebElement[Slider]: attribute 'value' = '0'
+2026-08-19 12:18:01 | INFO     | WebElement[Slider]: get attribute 'min'
+2026-08-19 12:18:01 | INFO     | WebElement[Slider]: attribute 'min' = '0.0'
+2026-08-19 12:18:01 | INFO     | WebElement[Slider]: get attribute 'max'
+2026-08-19 12:18:01 | INFO     | WebElement[Slider]: attribute 'max' = '5.0'
+2026-08-19 12:18:01 | INFO     | WebElement[Slider]: get attribute 'step'
+2026-08-19 12:18:01 | INFO     | WebElement[Slider]: attribute 'step' = '0.5'
+2026-08-19 12:18:01 | INFO     | WebElement[Slider]: get attribute 'step'
+2026-08-19 12:18:01 | INFO     | WebElement[Slider]: attribute 'step' = '0.5'
+2026-08-19 12:18:01 | INFO     | WebElement[Slider]: get attribute 'value'
+2026-08-19 12:18:01 | INFO     | WebElement[Slider]: attribute 'value' = '0'
+2026-08-19 12:18:01 | INFO     | WebElement[Slider]: get attribute 'value'
+2026-08-19 12:18:01 | INFO     | WebElement[Slider]: attribute 'value' = '0'
+2026-08-19 12:33:45 | INFO     | WebElement[Slider]: get attribute 'min'
+2026-08-19 12:33:45 | INFO     | WebElement[Slider]: attribute 'min' = '0.0'
+2026-08-19 12:33:45 | INFO     | WebElement[Slider]: get attribute 'max'
+2026-08-19 12:33:45 | INFO     | WebElement[Slider]: attribute 'max' = '5.0'
+2026-08-19 12:33:45 | INFO     | WebElement[Slider]: get attribute 'step'
+2026-08-19 12:33:46 | INFO     | WebElement[Slider]: attribute 'step' = '0.5'
+2026-08-19 12:33:46 | INFO     | WebElement[Slider]: get attribute 'step'
+2026-08-19 12:33:46 | INFO     | WebElement[Slider]: attribute 'step' = '0.5'
+2026-08-19 12:33:46 | INFO     | WebElement[Slider]: get attribute 'value'
+2026-08-19 12:33:46 | INFO     | WebElement[Slider]: attribute 'value' = '0'
+2026-08-19 12:33:46 | INFO     | WebElement[Slider]: get attribute 'value'
+2026-08-19 12:33:46 | INFO     | WebElement[Slider]: attribute 'value' = '0'
+2026-08-19 12:35:33 | INFO     | WebElement[Slider]: get attribute 'min'
+2026-08-19 12:35:33 | INFO     | WebElement[Slider]: attribute 'min' = '0.0'
+2026-08-19 12:35:33 | INFO     | WebElement[Slider]: get attribute 'max'
+2026-08-19 12:35:33 | INFO     | WebElement[Slider]: attribute 'max' = '5.0'
+2026-08-19 12:35:33 | INFO     | WebElement[Slider]: get attribute 'step'
+2026-08-19 12:35:33 | INFO     | WebElement[Slider]: attribute 'step' = '0.5'
+2026-08-19 12:35:33 | INFO     | WebElement[Slider]: get attribute 'step'
+2026-08-19 12:35:33 | INFO     | WebElement[Slider]: attribute 'step' = '0.5'
+2026-08-19 12:35:33 | INFO     | WebElement[Slider]: get attribute 'value'
+2026-08-19 12:35:33 | INFO     | WebElement[Slider]: attribute 'value' = '0'
+2026-08-19 12:35:33 | INFO     | WebElement[Slider]: get attribute 'value'
+2026-08-19 12:35:33 | INFO     | WebElement[Slider]: attribute 'value' = '0'
+2026-08-19 12:39:34 | INFO     | WebElement[Slider]: get attribute 'min'
+2026-08-19 12:39:34 | INFO     | WebElement[Slider]: attribute 'min' = '0.0'
+2026-08-19 12:39:34 | INFO     | WebElement[Slider]: get attribute 'max'
+2026-08-19 12:39:34 | INFO     | WebElement[Slider]: attribute 'max' = '5.0'
+2026-08-19 12:39:34 | INFO     | WebElement[Slider]: get attribute 'step'
+2026-08-19 12:39:34 | INFO     | WebElement[Slider]: attribute 'step' = '0.5'
+2026-08-19 12:39:34 | INFO     | WebElement[Slider]: get attribute 'step'
+2026-08-19 12:39:34 | INFO     | WebElement[Slider]: attribute 'step' = '0.5'
+2026-08-19 12:39:34 | INFO     | WebElement[Slider]: get attribute 'value'
+2026-08-19 12:39:34 | INFO     | WebElement[Slider]: attribute 'value' = '0'
+2026-08-19 12:39:34 | INFO     | WebElement[Slider]: get attribute 'value'
+2026-08-19 12:39:34 | INFO     | WebElement[Slider]: attribute 'value' = '0'
+2026-08-19 12:42:36 | INFO     | WebElement[Slider]: get attribute 'min'
+2026-08-19 12:42:36 | INFO     | WebElement[Slider]: attribute 'min' = '0.0'
+2026-08-19 12:42:36 | INFO     | WebElement[Slider]: get attribute 'max'
+2026-08-19 12:42:36 | INFO     | WebElement[Slider]: attribute 'max' = '5.0'
+2026-08-19 12:42:36 | INFO     | WebElement[Slider]: get attribute 'step'
+2026-08-19 12:42:36 | INFO     | WebElement[Slider]: attribute 'step' = '0.5'
+2026-08-19 12:42:36 | INFO     | WebElement[Slider]: get attribute 'step'
+2026-08-19 12:42:36 | INFO     | WebElement[Slider]: attribute 'step' = '0.5'
+2026-08-19 12:42:36 | INFO     | WebElement[Slider]: get attribute 'value'
+2026-08-19 12:42:36 | INFO     | WebElement[Slider]: attribute 'value' = '0'
+2026-08-19 12:42:36 | INFO     | WebElement[Slider]: get attribute 'value'
+2026-08-19 12:42:36 | INFO     | WebElement[Slider]: attribute 'value' = '0'
+2026-08-19 12:42:46 | INFO     | WebElement[Slider]: get attribute 'min'
+2026-08-19 12:42:46 | INFO     | WebElement[Slider]: attribute 'min' = '0.0'
+2026-08-19 12:42:46 | INFO     | WebElement[Slider]: get attribute 'max'
+2026-08-19 12:42:46 | INFO     | WebElement[Slider]: attribute 'max' = '5.0'
+2026-08-19 12:42:46 | INFO     | WebElement[Slider]: get attribute 'step'
+2026-08-19 12:42:46 | INFO     | WebElement[Slider]: attribute 'step' = '0.5'
+2026-08-19 12:42:46 | INFO     | WebElement[Slider]: get attribute 'step'
+2026-08-19 12:42:46 | INFO     | WebElement[Slider]: attribute 'step' = '0.5'
+2026-08-19 12:42:46 | INFO     | WebElement[Slider]: get attribute 'value'
+2026-08-19 12:42:46 | INFO     | WebElement[Slider]: attribute 'value' = '0'
+2026-08-19 12:42:46 | INFO     | WebElement[Slider]: get attribute 'value'
+2026-08-19 12:42:46 | INFO     | WebElement[Slider]: attribute 'value' = '0'
+2026-08-19 12:44:38 | INFO     | WebElement[Slider]: get attribute 'min'
+2026-08-19 12:44:38 | INFO     | WebElement[Slider]: attribute 'min' = '0.0'
+2026-08-19 12:44:38 | INFO     | WebElement[Slider]: get attribute 'max'
+2026-08-19 12:44:38 | INFO     | WebElement[Slider]: attribute 'max' = '5.0'
+2026-08-19 12:44:38 | INFO     | WebElement[Slider]: get attribute 'step'
+2026-08-19 12:44:38 | INFO     | WebElement[Slider]: attribute 'step' = '0.5'
+2026-08-19 12:44:38 | INFO     | WebElement[Slider]: get attribute 'step'
+2026-08-19 12:44:38 | INFO     | WebElement[Slider]: attribute 'step' = '0.5'
+2026-08-19 12:44:38 | INFO     | WebElement[Slider]: get attribute 'value'
+2026-08-19 12:44:38 | INFO     | WebElement[Slider]: attribute 'value' = '0'
+2026-08-19 12:44:38 | INFO     | WebElement[Slider]: get attribute 'value'
+2026-08-19 12:44:38 | INFO     | WebElement[Slider]: attribute 'value' = '0'
+2026-08-19 12:44:38 | INFO     | WebElement[Slider]: get attribute 'value'
+2026-08-19 12:44:38 | INFO     | WebElement[Slider]: attribute 'value' = '0'
+2026-08-19 12:49:17 | INFO     | WebElement[Slider]: get attribute 'min'
+2026-08-19 12:49:17 | INFO     | WebElement[Slider]: attribute 'min' = '0.0'
+2026-08-19 12:49:17 | INFO     | WebElement[Slider]: get attribute 'max'
+2026-08-19 12:49:17 | INFO     | WebElement[Slider]: attribute 'max' = '5.0'
+2026-08-19 12:49:17 | INFO     | WebElement[Slider]: get attribute 'step'
+2026-08-19 12:49:17 | INFO     | WebElement[Slider]: attribute 'step' = '0.5'
+2026-08-19 12:49:17 | INFO     | WebElement[Slider]: get attribute 'step'
+2026-08-19 12:49:17 | INFO     | WebElement[Slider]: attribute 'step' = '0.5'
+2026-08-19 12:49:17 | INFO     | WebElement[Slider]: get attribute 'value'
+2026-08-19 12:49:17 | INFO     | WebElement[Slider]: attribute 'value' = '0'
+2026-08-19 12:49:17 | INFO     | WebElement[Slider]: get attribute 'value'
+2026-08-19 12:49:17 | INFO     | WebElement[Slider]: attribute 'value' = '0'
+2026-08-19 12:49:17 | INFO     | WebElement[Slider]: get attribute 'value'
+2026-08-19 12:49:17 | INFO     | WebElement[Slider]: attribute 'value' = '0'
+2026-08-19 12:51:30 | INFO     | WebElement[Slider]: get attribute 'min'
+2026-08-19 12:51:30 | INFO     | WebElement[Slider]: attribute 'min' = '0.0'
+2026-08-19 12:51:30 | INFO     | WebElement[Slider]: get attribute 'max'
+2026-08-19 12:51:30 | INFO     | WebElement[Slider]: attribute 'max' = '5.0'
+2026-08-19 12:51:30 | INFO     | WebElement[Slider]: get attribute 'step'
+2026-08-19 12:51:30 | INFO     | WebElement[Slider]: attribute 'step' = '0.5'
+2026-08-19 12:51:30 | INFO     | WebElement[Slider]: get attribute 'step'
+2026-08-19 12:51:30 | INFO     | WebElement[Slider]: attribute 'step' = '0.5'
+2026-08-19 12:51:30 | INFO     | WebElement[Slider]: get attribute 'value'
+2026-08-19 12:51:30 | INFO     | WebElement[Slider]: attribute 'value' = '0'
+2026-08-19 12:51:31 | INFO     | WebElement[Slider]: get attribute 'value'
+2026-08-19 12:51:31 | INFO     | WebElement[Slider]: attribute 'value' = '0'
+2026-08-19 12:51:31 | INFO     | WebElement[Slider]: get attribute 'value'
+2026-08-19 12:51:31 | INFO     | WebElement[Slider]: attribute 'value' = '0'
+2026-08-19 12:52:45 | INFO     | WebElement[Кнопка для JS Alert]: click
+2026-08-19 12:52:45 | INFO     | WebElement[Кнопка для JS Confirm]: click
+2026-08-19 12:52:45 | INFO     | WebElement[Кнопка для JS Confirm]: click
+2026-08-19 12:52:45 | INFO     | WebElement[Кнопка для JS Prompt]: click
+2026-08-19 12:52:45 | INFO     | WebElement[Секция результата]: get text content
+2026-08-19 12:52:45 | INFO     | WebElement[Секция результата]: text content = 'You entered: '
+2026-08-19 12:53:39 | INFO     | WebElement[Кнопка для JS Alert]: click
+2026-08-19 12:53:39 | INFO     | WebElement[Кнопка для JS Confirm]: click
+2026-08-19 12:53:39 | INFO     | WebElement[Кнопка для JS Confirm]: click
+2026-08-19 12:53:39 | INFO     | WebElement[Кнопка для JS Prompt]: click
+2026-08-19 12:53:39 | INFO     | WebElement[Секция результата]: get text content
+2026-08-19 12:53:39 | INFO     | WebElement[Секция результата]: text content = 'You entered: '
+2026-08-19 12:53:47 | INFO     | WebElement[Slider]: get attribute 'min'
+2026-08-19 12:53:47 | INFO     | WebElement[Slider]: attribute 'min' = '0.0'
+2026-08-19 12:53:47 | INFO     | WebElement[Slider]: get attribute 'max'
+2026-08-19 12:53:47 | INFO     | WebElement[Slider]: attribute 'max' = '5.0'
+2026-08-19 12:53:47 | INFO     | WebElement[Slider]: get attribute 'step'
+2026-08-19 12:53:47 | INFO     | WebElement[Slider]: attribute 'step' = '0.5'
+2026-08-19 12:53:47 | INFO     | WebElement[Slider]: get attribute 'step'
+2026-08-19 12:53:47 | INFO     | WebElement[Slider]: attribute 'step' = '0.5'
+2026-08-19 12:53:47 | INFO     | WebElement[Slider]: get attribute 'value'
+2026-08-19 12:53:47 | INFO     | WebElement[Slider]: attribute 'value' = '0'
+2026-08-19 12:53:47 | INFO     | WebElement[Slider]: get attribute 'value'
+2026-08-19 12:53:47 | INFO     | WebElement[Slider]: attribute 'value' = '0'
+2026-08-19 12:53:47 | INFO     | WebElement[Slider]: get attribute 'value'
+2026-08-19 12:53:47 | INFO     | WebElement[Slider]: attribute 'value' = '0'
+2026-08-19 15:44:28 | INFO     | WebElement[Кнопка для JS Alert]: click
+2026-08-19 15:44:29 | INFO     | WebElement[Кнопка для JS Confirm]: click
+2026-08-19 15:44:29 | INFO     | WebElement[Кнопка для JS Confirm]: click
+2026-08-19 15:44:29 | INFO     | WebElement[Кнопка для JS Prompt]: click
+2026-08-19 15:44:29 | INFO     | WebElement[Секция результата]: get text content
+2026-08-19 15:44:29 | INFO     | WebElement[Секция результата]: text content = 'You entered: '
+2026-08-19 15:44:41 | INFO     | WebElement[Slider]: get attribute 'min'
+2026-08-19 15:44:41 | INFO     | WebElement[Slider]: attribute 'min' = '0.0'
+2026-08-19 15:44:41 | INFO     | WebElement[Slider]: get attribute 'max'
+2026-08-19 15:44:41 | INFO     | WebElement[Slider]: attribute 'max' = '5.0'
+2026-08-19 15:44:41 | INFO     | WebElement[Slider]: get attribute 'step'
+2026-08-19 15:44:41 | INFO     | WebElement[Slider]: attribute 'step' = '0.5'
+2026-08-19 15:44:41 | INFO     | WebElement[Slider]: get attribute 'step'
+2026-08-19 15:44:41 | INFO     | WebElement[Slider]: attribute 'step' = '0.5'
+2026-08-19 15:44:41 | INFO     | WebElement[Slider]: get attribute 'value'
+2026-08-19 15:44:41 | INFO     | WebElement[Slider]: attribute 'value' = '0'
+2026-08-19 15:44:41 | INFO     | WebElement[Slider]: get attribute 'value'
+2026-08-19 15:44:41 | INFO     | WebElement[Slider]: attribute 'value' = '0'
+2026-08-19 15:44:41 | INFO     | WebElement[Slider]: get attribute 'value'
+2026-08-19 15:44:41 | INFO     | WebElement[Slider]: attribute 'value' = '0'
+2026-08-19 15:47:59 | INFO     | WebElement[Кнопка для JS Alert]: click
+2026-08-19 15:47:59 | INFO     | WebElement[Кнопка для JS Confirm]: click
+2026-08-19 15:47:59 | INFO     | WebElement[Кнопка для JS Confirm]: click
+2026-08-19 15:47:59 | INFO     | WebElement[Кнопка для JS Prompt]: click
+2026-08-19 15:47:59 | INFO     | WebElement[Секция результата]: get text content
+2026-08-19 15:47:59 | INFO     | WebElement[Секция результата]: text content = 'You entered: '
+2026-08-19 15:48:13 | INFO     | WebElement[Slider]: get attribute 'min'
+2026-08-19 15:48:13 | INFO     | WebElement[Slider]: attribute 'min' = '0.0'
+2026-08-19 15:48:13 | INFO     | WebElement[Slider]: get attribute 'max'
+2026-08-19 15:48:13 | INFO     | WebElement[Slider]: attribute 'max' = '5.0'
+2026-08-19 15:48:13 | INFO     | WebElement[Slider]: get attribute 'step'
+2026-08-19 15:48:13 | INFO     | WebElement[Slider]: attribute 'step' = '0.5'
+2026-08-19 15:48:13 | INFO     | WebElement[Slider]: get attribute 'step'
+2026-08-19 15:48:13 | INFO     | WebElement[Slider]: attribute 'step' = '0.5'
+2026-08-19 15:48:13 | INFO     | WebElement[Slider]: get attribute 'value'
+2026-08-19 15:48:13 | INFO     | WebElement[Slider]: attribute 'value' = '0'
+2026-08-19 15:48:13 | INFO     | WebElement[Slider]: get attribute 'value'
+2026-08-19 15:48:13 | INFO     | WebElement[Slider]: attribute 'value' = '0'
+2026-08-19 15:48:13 | INFO     | WebElement[Slider]: get attribute 'value'
+2026-08-19 15:48:13 | INFO     | WebElement[Slider]: attribute 'value' = '0'
+2026-08-19 15:51:00 | INFO     | WebElement[Кнопка для JS Alert]: click
+2026-08-19 15:51:00 | INFO     | WebElement[Кнопка для JS Confirm]: click
+2026-08-19 15:51:00 | INFO     | WebElement[Кнопка для JS Confirm]: click
+2026-08-19 15:51:01 | INFO     | WebElement[Кнопка для JS Prompt]: click
+2026-08-19 15:51:01 | INFO     | WebElement[Секция результата]: get text content
+2026-08-19 15:51:01 | INFO     | WebElement[Секция результата]: text content = 'You entered: '
+2026-08-19 15:51:15 | INFO     | WebElement[Slider]: get attribute 'min'
+2026-08-19 15:51:15 | INFO     | WebElement[Slider]: attribute 'min' = '0.0'
+2026-08-19 15:51:15 | INFO     | WebElement[Slider]: get attribute 'max'
+2026-08-19 15:51:15 | INFO     | WebElement[Slider]: attribute 'max' = '5.0'
+2026-08-19 15:51:15 | INFO     | WebElement[Slider]: get attribute 'step'
+2026-08-19 15:51:15 | INFO     | WebElement[Slider]: attribute 'step' = '0.5'
+2026-08-19 15:51:15 | INFO     | WebElement[Slider]: get attribute 'step'
+2026-08-19 15:51:15 | INFO     | WebElement[Slider]: attribute 'step' = '0.5'
+2026-08-19 15:51:15 | INFO     | WebElement[Slider]: get attribute 'value'
+2026-08-19 15:51:15 | INFO     | WebElement[Slider]: attribute 'value' = '0'
+2026-08-19 15:51:15 | INFO     | WebElement[Slider]: get attribute 'value'
+2026-08-19 15:51:15 | INFO     | WebElement[Slider]: attribute 'value' = '0'
+2026-08-19 15:51:15 | INFO     | WebElement[Slider]: get attribute 'value'
+2026-08-19 15:51:15 | INFO     | WebElement[Slider]: attribute 'value' = '0'
+2026-08-19 16:08:41 | INFO     | WebElement[Кнопка для JS Alert]: click
+2026-08-19 16:08:41 | INFO     | WebElement[Кнопка для JS Confirm]: click
+2026-08-19 16:08:41 | INFO     | WebElement[Кнопка для JS Confirm]: click
+2026-08-19 16:08:41 | INFO     | WebElement[Кнопка для JS Prompt]: click
+2026-08-19 16:08:41 | INFO     | WebElement[Секция результата]: get text content
+2026-08-19 16:08:41 | INFO     | WebElement[Секция результата]: text content = 'You entered: '
+2026-08-19 16:08:54 | INFO     | WebElement[Slider]: get attribute 'min'
+2026-08-19 16:08:54 | INFO     | WebElement[Slider]: attribute 'min' = '0.0'
+2026-08-19 16:08:54 | INFO     | WebElement[Slider]: get attribute 'max'
+2026-08-19 16:08:54 | INFO     | WebElement[Slider]: attribute 'max' = '5.0'
+2026-08-19 16:08:54 | INFO     | WebElement[Slider]: get attribute 'step'
+2026-08-19 16:08:54 | INFO     | WebElement[Slider]: attribute 'step' = '0.5'
+2026-08-19 16:08:54 | INFO     | WebElement[Slider]: get attribute 'step'
+2026-08-19 16:08:54 | INFO     | WebElement[Slider]: attribute 'step' = '0.5'
+2026-08-19 16:08:54 | INFO     | WebElement[Slider]: get attribute 'value'
+2026-08-19 16:08:54 | INFO     | WebElement[Slider]: attribute 'value' = '0'
+2026-08-19 16:08:54 | INFO     | WebElement[Slider]: get attribute 'value'
+2026-08-19 16:08:54 | INFO     | WebElement[Slider]: attribute 'value' = '0'
+2026-08-19 16:08:54 | INFO     | WebElement[Slider]: get attribute 'value'
+2026-08-19 16:08:54 | INFO     | WebElement[Slider]: attribute 'value' = '0'
+2026-08-19 16:12:19 | INFO     | WebElement[Кнопка для JS Alert]: click
+2026-08-19 16:12:19 | INFO     | WebElement[Кнопка для JS Confirm]: click
+2026-08-19 16:12:19 | INFO     | WebElement[Кнопка для JS Confirm]: click
+2026-08-19 16:12:19 | INFO     | WebElement[Кнопка для JS Prompt]: click
+2026-08-19 16:12:19 | INFO     | WebElement[Секция результата]: get text content
+2026-08-19 16:12:19 | INFO     | WebElement[Секция результата]: text content = 'You entered: '
+2026-08-19 16:12:32 | INFO     | WebElement[Slider]: get attribute 'min'
+2026-08-19 16:12:32 | INFO     | WebElement[Slider]: attribute 'min' = '0.0'
+2026-08-19 16:12:32 | INFO     | WebElement[Slider]: get attribute 'max'
+2026-08-19 16:12:32 | INFO     | WebElement[Slider]: attribute 'max' = '5.0'
+2026-08-19 16:12:32 | INFO     | WebElement[Slider]: get attribute 'step'
+2026-08-19 16:12:32 | INFO     | WebElement[Slider]: attribute 'step' = '0.5'
+2026-08-19 16:12:32 | INFO     | WebElement[Slider]: get attribute 'step'
+2026-08-19 16:12:32 | INFO     | WebElement[Slider]: attribute 'step' = '0.5'
+2026-08-19 16:12:32 | INFO     | WebElement[Slider]: get attribute 'value'
+2026-08-19 16:12:32 | INFO     | WebElement[Slider]: attribute 'value' = '0'
+2026-08-19 16:12:33 | INFO     | WebElement[Slider]: get attribute 'value'
+2026-08-19 16:12:33 | INFO     | WebElement[Slider]: attribute 'value' = '0'
+2026-08-19 16:12:33 | INFO     | WebElement[Slider]: get attribute 'value'
+2026-08-19 16:12:33 | INFO     | WebElement[Slider]: attribute 'value' = '0'
+2026-08-19 16:18:59 | INFO     | WebElement[Кнопка для JS Alert]: click
+2026-08-19 16:18:59 | INFO     | WebElement[Кнопка для JS Confirm]: click
+2026-08-19 16:18:59 | INFO     | WebElement[Кнопка для JS Confirm]: click
+2026-08-19 16:18:59 | INFO     | WebElement[Кнопка для JS Prompt]: click
+2026-08-19 16:18:59 | INFO     | WebElement[Секция результата]: get text content
+2026-08-19 16:18:59 | INFO     | WebElement[Секция результата]: text content = 'You entered: '
+2026-08-19 16:19:12 | INFO     | WebElement[Slider]: get attribute 'min'
+2026-08-19 16:19:12 | INFO     | WebElement[Slider]: attribute 'min' = '0.0'
+2026-08-19 16:19:12 | INFO     | WebElement[Slider]: get attribute 'max'
+2026-08-19 16:19:12 | INFO     | WebElement[Slider]: attribute 'max' = '5.0'
+2026-08-19 16:19:12 | INFO     | WebElement[Slider]: get attribute 'step'
+2026-08-19 16:19:12 | INFO     | WebElement[Slider]: attribute 'step' = '0.5'
+2026-08-19 16:19:12 | INFO     | WebElement[Slider]: get attribute 'step'
+2026-08-19 16:19:12 | INFO     | WebElement[Slider]: attribute 'step' = '0.5'
+2026-08-19 16:19:12 | INFO     | WebElement[Slider]: get attribute 'value'
+2026-08-19 16:19:12 | INFO     | WebElement[Slider]: attribute 'value' = '0'
+2026-08-19 16:19:12 | INFO     | WebElement[Slider]: get attribute 'value'
+2026-08-19 16:19:12 | INFO     | WebElement[Slider]: attribute 'value' = '0'
+2026-08-19 16:19:12 | INFO     | WebElement[Slider]: get attribute 'value'
+2026-08-19 16:19:12 | INFO     | WebElement[Slider]: attribute 'value' = '0'
+2026-08-20 19:00:17 | INFO     | WebElement[Кнопка для JS Alert]: click
+2026-08-20 19:00:17 | INFO     | WebElement[Кнопка для JS Confirm]: click
+2026-08-20 19:00:17 | INFO     | WebElement[Кнопка для JS Confirm]: click
+2026-08-20 19:00:17 | INFO     | WebElement[Кнопка для JS Prompt]: click
+2026-08-20 19:00:17 | INFO     | WebElement[Секция результата]: get text content
+2026-08-20 19:00:17 | INFO     | WebElement[Секция результата]: text content = 'You entered: '
+2026-08-20 19:00:41 | INFO     | WebElement[Кнопка для JS Alert]: click
+2026-08-20 19:00:42 | INFO     | WebElement[Кнопка для JS Confirm]: click
+2026-08-20 19:00:42 | INFO     | WebElement[Кнопка для JS Confirm]: click
+2026-08-20 19:00:42 | INFO     | WebElement[Кнопка для JS Prompt]: click
+2026-08-20 19:00:42 | INFO     | WebElement[Секция результата]: get text content
+2026-08-20 19:00:42 | INFO     | WebElement[Секция результата]: text content = 'You entered: '
+2026-08-20 19:03:40 | INFO     | WebElement[Кнопка для JS Alert]: click
+2026-08-20 19:03:40 | INFO     | WebElement[Кнопка для JS Confirm]: click
+2026-08-20 19:03:40 | INFO     | WebElement[Кнопка для JS Confirm]: click
+2026-08-20 19:03:40 | INFO     | WebElement[Кнопка для JS Prompt]: click
+2026-08-20 19:03:41 | INFO     | WebElement[Секция результата]: get text content
+2026-08-20 19:03:41 | INFO     | WebElement[Секция результата]: text content = 'You entered: '
+2026-08-20 19:03:59 | INFO     | WebElement[Slider]: get attribute 'min'
+2026-08-20 19:03:59 | INFO     | WebElement[Slider]: attribute 'min' = '0.0'
+2026-08-20 19:03:59 | INFO     | WebElement[Slider]: get attribute 'max'
+2026-08-20 19:03:59 | INFO     | WebElement[Slider]: attribute 'max' = '5.0'
+2026-08-20 19:03:59 | INFO     | WebElement[Slider]: get attribute 'step'
+2026-08-20 19:03:59 | INFO     | WebElement[Slider]: attribute 'step' = '0.5'
+2026-08-20 19:03:59 | INFO     | WebElement[Slider]: get attribute 'step'
+2026-08-20 19:03:59 | INFO     | WebElement[Slider]: attribute 'step' = '0.5'
+2026-08-20 19:03:59 | INFO     | WebElement[Slider]: get attribute 'value'
+2026-08-20 19:03:59 | INFO     | WebElement[Slider]: attribute 'value' = '0'
+2026-08-20 19:03:59 | INFO     | WebElement[Slider]: get attribute 'value'
+2026-08-20 19:03:59 | INFO     | WebElement[Slider]: attribute 'value' = '0'
+2026-08-20 19:03:59 | INFO     | WebElement[Slider]: get attribute 'value'
+2026-08-20 19:03:59 | INFO     | WebElement[Slider]: attribute 'value' = '0'
+2026-08-23 14:17:22 | INFO     | WebElement[Кнопка JS Alert]: click
+2026-08-23 14:17:22 | INFO     | WebElement[Кнопка JS Confirm]: click
+2026-08-23 14:17:23 | INFO     | WebElement[Кнопка JS Confirm]: click
+2026-08-23 14:17:23 | INFO     | WebElement[Кнопка JS Prompt]: click
+2026-08-23 14:17:23 | INFO     | WebElement[Секция результата]: get text content
+2026-08-23 14:17:23 | INFO     | WebElement[Секция результата]: text content = 'You entered: '
+2026-08-23 14:17:56 | INFO     | WebElement[Кнопка JS Alert]: click
+2026-08-23 14:17:57 | INFO     | WebElement[Кнопка JS Confirm]: click
+2026-08-23 14:17:58 | INFO     | WebElement[Кнопка JS Confirm]: click
+2026-08-23 14:17:59 | INFO     | WebElement[Кнопка JS Prompt]: click
+2026-08-23 14:18:00 | INFO     | WebElement[Секция результата]: get text content
+2026-08-23 14:18:00 | INFO     | WebElement[Секция результата]: text content = 'You entered: '
+2026-08-23 14:18:43 | INFO     | WebElement[Кнопка JS Alert]: click
+2026-08-23 14:18:46 | INFO     | WebElement[Кнопка JS Confirm]: click
+2026-08-23 14:18:49 | INFO     | WebElement[Кнопка JS Confirm]: click
+2026-08-23 14:18:52 | INFO     | WebElement[Кнопка JS Prompt]: click
+2026-08-23 14:18:55 | INFO     | WebElement[Секция результата]: get text content
+2026-08-23 14:18:55 | INFO     | WebElement[Секция результата]: text content = 'You entered: '
+2026-08-23 15:41:24 | INFO     | WebElement[Кнопка JS Alert]: click
+2026-08-23 15:41:24 | INFO     | WebElement[Кнопка JS Confirm]: click
+2026-08-23 15:41:24 | INFO     | WebElement[Кнопка JS Confirm]: click
+2026-08-23 15:41:24 | INFO     | WebElement[Кнопка JS Prompt]: click
+2026-08-23 15:49:28 | INFO     | WebElement[Кнопка JS Alert]: click
+2026-08-23 15:49:31 | INFO     | WebElement[Кнопка JS Confirm]: click
+2026-08-23 15:49:34 | INFO     | WebElement[Кнопка JS Confirm]: click
+2026-08-23 15:49:37 | INFO     | WebElement[Кнопка JS Prompt]: click
+2026-08-23 15:52:35 | INFO     | WebElement[Кнопка JS Alert]: click
+2026-08-23 15:52:38 | INFO     | WebElement[Кнопка JS Confirm]: click
+2026-08-23 15:52:41 | INFO     | WebElement[Кнопка JS Confirm]: click
+2026-08-23 15:52:44 | INFO     | WebElement[Кнопка JS Prompt]: click
+2026-08-23 15:52:48 | INFO     | WebElement[Секция результата]: get text content
+2026-08-23 15:52:48 | INFO     | WebElement[Секция результата]: text content = 'You entered: RtmGVup6'
+2026-08-23 17:13:26 | INFO     | WebElement[Область действия]: right click
+2026-08-23 17:30:17 | INFO     | WebElement[Slider]: get attribute 'min'
+2026-08-23 17:30:17 | INFO     | WebElement[Slider]: attribute 'min' = '0.0'
+2026-08-23 17:30:17 | INFO     | WebElement[Slider]: get attribute 'max'
+2026-08-23 17:30:17 | INFO     | WebElement[Slider]: attribute 'max' = '5.0'
+2026-08-23 17:30:17 | INFO     | WebElement[Slider]: get attribute 'step'
+2026-08-23 17:30:17 | INFO     | WebElement[Slider]: attribute 'step' = '0.5'
+2026-08-23 17:30:17 | INFO     | WebElement[Slider]: get attribute 'step'
+2026-08-23 17:30:17 | INFO     | WebElement[Slider]: attribute 'step' = '0.5'
+2026-08-23 17:30:17 | INFO     | WebElement[Slider]: get attribute 'value'
+2026-08-23 17:30:17 | INFO     | WebElement[Slider]: attribute 'value' = '0'
+2026-08-23 17:30:17 | INFO     | WebElement[Slider]: get attribute 'value'
+2026-08-23 17:30:17 | INFO     | WebElement[Slider]: attribute 'value' = '0'
+2026-08-23 17:30:17 | INFO     | WebElement[Slider]: get attribute 'value'
+2026-08-23 17:30:17 | INFO     | WebElement[Slider]: attribute 'value' = '0'
+2026-08-23 17:30:46 | INFO     | WebElement[Область действия]: right click
+2026-08-23 17:32:53 | INFO     | WebElement[Slider]: get attribute 'min'
+2026-08-23 17:32:53 | INFO     | WebElement[Slider]: attribute 'min' = '0.0'
+2026-08-23 17:32:53 | INFO     | WebElement[Slider]: get attribute 'max'
+2026-08-23 17:32:53 | INFO     | WebElement[Slider]: attribute 'max' = '5.0'
+2026-08-23 17:32:53 | INFO     | WebElement[Slider]: get attribute 'step'
+2026-08-23 17:32:53 | INFO     | WebElement[Slider]: attribute 'step' = '0.5'
+2026-08-23 17:32:53 | INFO     | WebElement[Slider]: get attribute 'step'
+2026-08-23 17:32:53 | INFO     | WebElement[Slider]: attribute 'step' = '0.5'
+2026-08-23 17:32:53 | INFO     | WebElement[Slider]: get attribute 'value'
+2026-08-23 17:32:53 | INFO     | WebElement[Slider]: attribute 'value' = '0'
+2026-08-23 17:33:02 | INFO     | WebElement[Slider]: get attribute 'value'
+2026-08-23 17:33:02 | INFO     | WebElement[Slider]: attribute 'value' = '0'
+2026-08-23 17:33:02 | INFO     | WebElement[Slider]: get attribute 'value'
+2026-08-23 17:33:02 | INFO     | WebElement[Slider]: attribute 'value' = '0'
+2026-08-23 17:38:02 | INFO     | WebElement[Slider]: get attribute 'min'
+2026-08-23 17:38:02 | INFO     | WebElement[Slider]: attribute 'min' = '0.0'
+2026-08-23 17:38:02 | INFO     | WebElement[Slider]: get attribute 'max'
+2026-08-23 17:38:02 | INFO     | WebElement[Slider]: attribute 'max' = '5.0'
+2026-08-23 17:38:02 | INFO     | WebElement[Slider]: get attribute 'step'
+2026-08-23 17:38:02 | INFO     | WebElement[Slider]: attribute 'step' = '0.5'
+2026-08-23 17:38:02 | INFO     | WebElement[Slider]: get attribute 'value'
+2026-08-23 17:38:02 | INFO     | WebElement[Slider]: attribute 'value' = '0'
+2026-08-23 17:38:17 | INFO     | WebElement[Slider]: get attribute 'value'
+2026-08-23 17:38:17 | INFO     | WebElement[Slider]: attribute 'value' = '0'
+2026-08-23 17:38:17 | INFO     | WebElement[Slider]: get attribute 'value'
+2026-08-23 17:38:17 | INFO     | WebElement[Slider]: attribute 'value' = '0'
+2026-08-23 17:41:32 | INFO     | WebElement[Slider]: get attribute 'min'
+2026-08-23 17:41:32 | INFO     | WebElement[Slider]: attribute 'min' = '0.0'
+2026-08-23 17:41:32 | INFO     | WebElement[Slider]: get attribute 'max'
+2026-08-23 17:41:32 | INFO     | WebElement[Slider]: attribute 'max' = '5.0'
+2026-08-23 17:41:32 | INFO     | WebElement[Slider]: get attribute 'step'
+2026-08-23 17:41:32 | INFO     | WebElement[Slider]: attribute 'step' = '0.5'
+2026-08-23 17:41:32 | INFO     | WebElement[Slider]: get attribute 'value'
+2026-08-23 17:41:32 | INFO     | WebElement[Slider]: attribute 'value' = '0'
+2026-08-23 17:41:38 | INFO     | WebElement[Slider]: get attribute 'value'
+2026-08-23 17:41:38 | INFO     | WebElement[Slider]: attribute 'value' = '0'
+2026-08-23 17:41:38 | INFO     | WebElement[Slider]: get attribute 'value'
+2026-08-23 17:41:38 | INFO     | WebElement[Slider]: attribute 'value' = '0'
+2026-08-23 17:42:27 | INFO     | WebElement[Slider]: get attribute 'min'
+2026-08-23 17:42:27 | INFO     | WebElement[Slider]: attribute 'min' = '0.0'
+2026-08-23 17:42:27 | INFO     | WebElement[Slider]: get attribute 'max'
+2026-08-23 17:42:27 | INFO     | WebElement[Slider]: attribute 'max' = '5.0'
+2026-08-23 17:42:27 | INFO     | WebElement[Slider]: get attribute 'step'
+2026-08-23 17:42:27 | INFO     | WebElement[Slider]: attribute 'step' = '0.5'
+2026-08-23 17:42:27 | INFO     | WebElement[Slider]: get attribute 'value'
+2026-08-23 17:42:27 | INFO     | WebElement[Slider]: attribute 'value' = '0'
+2026-08-23 17:42:33 | INFO     | WebElement[Slider]: get attribute 'value'
+2026-08-23 17:42:33 | INFO     | WebElement[Slider]: attribute 'value' = '0'
+2026-08-23 17:42:33 | INFO     | WebElement[Slider]: get attribute 'value'
+2026-08-23 17:42:33 | INFO     | WebElement[Slider]: attribute 'value' = '0'
+2026-08-25 15:28:35 | INFO     | WebElement[???]: click
+2026-08-25 15:28:35 | INFO     | WebElement[???]: click
+2026-08-25 15:35:14 | INFO     | WebElement[Кнопка Click Here]: click
+2026-08-25 15:35:15 | INFO     | WebElement[Кнопка Click Here]: click
+2026-08-25 15:38:32 | INFO     | WebElement[Кнопка Click Here]: click
+2026-08-25 15:38:33 | INFO     | WebElement[Кнопка Click Here]: click
+2026-08-25 18:01:05 | INFO     | WebElement[Область действия]: right click
+2026-08-26 14:29:26 | INFO     | WebElement[Кнопка JS Alert]: click
+2026-08-26 14:29:26 | INFO     | WebElement[Кнопка JS Confirm]: click
+2026-08-26 14:29:26 | INFO     | WebElement[Кнопка JS Confirm]: click
+2026-08-26 14:29:26 | INFO     | WebElement[Кнопка JS Prompt]: click
+2026-08-26 14:29:26 | INFO     | WebElement[Секция результата]: get text content
+2026-08-26 14:29:26 | INFO     | WebElement[Секция результата]: text content = 'You entered: m4AcbYF2'
+2026-08-26 14:29:29 | INFO     | WebElement[Область действия]: right click
+2026-08-26 14:30:18 | INFO     | WebElement[Slider]: get attribute 'min'
+2026-08-26 14:30:18 | INFO     | WebElement[Slider]: attribute 'min' = '0.0'
+2026-08-26 14:30:18 | INFO     | WebElement[Slider]: get attribute 'max'
+2026-08-26 14:30:18 | INFO     | WebElement[Slider]: attribute 'max' = '5.0'
+2026-08-26 14:30:18 | INFO     | WebElement[Slider]: get attribute 'step'
+2026-08-26 14:30:18 | INFO     | WebElement[Slider]: attribute 'step' = '0.5'
+2026-08-26 14:30:18 | INFO     | WebElement[Slider]: get attribute 'value'
+2026-08-26 14:30:18 | INFO     | WebElement[Slider]: attribute 'value' = '0'
+2026-08-26 14:30:19 | INFO     | WebElement[Slider]: get attribute 'value'
+2026-08-26 14:30:19 | INFO     | WebElement[Slider]: attribute 'value' = '0'
+2026-08-26 14:30:19 | INFO     | WebElement[Slider]: get attribute 'value'
+2026-08-26 14:30:19 | INFO     | WebElement[Slider]: attribute 'value' = '0'
+2026-08-26 14:30:25 | INFO     | WebElement[Кнопка Click Here]: click
+2026-08-26 14:30:25 | INFO     | WebElement[Кнопка Click Here]: click
+2026-08-26 14:31:27 | INFO     | WebElement[Кнопка JS Alert]: click
+2026-08-26 14:31:27 | INFO     | WebElement[Кнопка JS Confirm]: click
+2026-08-26 14:31:27 | INFO     | WebElement[Кнопка JS Confirm]: click
+2026-08-26 14:31:27 | INFO     | WebElement[Кнопка JS Prompt]: click
+2026-08-26 14:31:27 | INFO     | WebElement[Секция результата]: get text content
+2026-08-26 14:31:27 | INFO     | WebElement[Секция результата]: text content = 'You entered: zijPVLFd'
+2026-08-26 14:31:29 | INFO     | WebElement[Область действия]: right click
+2026-08-26 14:32:02 | INFO     | WebElement[Slider]: get attribute 'min'
+2026-08-26 14:32:02 | INFO     | WebElement[Slider]: attribute 'min' = '0.0'
+2026-08-26 14:32:02 | INFO     | WebElement[Slider]: get attribute 'max'
+2026-08-26 14:32:02 | INFO     | WebElement[Slider]: attribute 'max' = '5.0'
+2026-08-26 14:32:02 | INFO     | WebElement[Slider]: get attribute 'step'
+2026-08-26 14:32:02 | INFO     | WebElement[Slider]: attribute 'step' = '0.5'
+2026-08-26 14:32:02 | INFO     | WebElement[Slider]: get attribute 'value'
+2026-08-26 14:32:02 | INFO     | WebElement[Slider]: attribute 'value' = '0'
+2026-08-26 14:32:02 | INFO     | WebElement[Slider]: get attribute 'value'
+2026-08-26 14:32:02 | INFO     | WebElement[Slider]: attribute 'value' = '0'
+2026-08-26 14:32:02 | INFO     | WebElement[Slider]: get attribute 'value'
+2026-08-26 14:32:02 | INFO     | WebElement[Slider]: attribute 'value' = '0'
+2026-08-26 14:32:07 | INFO     | WebElement[Кнопка Click Here]: click
+2026-08-26 14:32:07 | INFO     | WebElement[Кнопка Click Here]: click
