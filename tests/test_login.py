@@ -1,7 +1,4 @@
-import pytest
-from playwright.sync_api import sync_playwright
 from pages.login_page import LoginPage
-from logger import setup_logger
 from page_factory.page_factory import PageFactory
 
 
@@ -12,8 +9,11 @@ def test_login_correct(browser):
         http_credentials={"username": "admin", "password": "admin"}
     )
     page = factory.create_page()
-    response = page.goto(f"{factory.config['base_url']}/basic_auth")
+    page.goto(f"{factory.config['base_url']}/basic_auth")
 
-    assert LoginPage(page).get_message(response.status) == "Success"
-    assert "Congratulations! You must have the proper credentials." in page.content()
-    print("ТЕСТ ПРОЙДЕН")
+    login_page = LoginPage(page)
+    message = login_page.get_message_text()
+
+    expected_text = "Congratulations! You must have the proper credentials."
+    assert message == expected_text, \
+        f"Текст не совпадает! Ожидалось: '{expected_text}', получено: '{message}'"

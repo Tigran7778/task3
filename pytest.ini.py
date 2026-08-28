@@ -1,2 +1,2 @@
 [pytest]
-addopts = --browser=chromium --headed --slowmo=500
+addopts = --browser=chromium --headed

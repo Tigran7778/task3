@@ -1,7 +1,5 @@
 from playwright.sync_api import Page
 from ui.web_element import WebElement
-import random
-import string
 
 
 class AlertsPage:
@@ -25,9 +23,6 @@ class AlertsPage:
             description="Секция результата",
             page=page
         )
-
-    def generate_random_text(self, length=8):
-        return ''.join(random.choices(string.ascii_letters + string.digits, k=length))
 
     def click_js_alert(self):
         self.alert_button.click()

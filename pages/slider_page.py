@@ -1,48 +1,35 @@
+from playwright.sync_api import Page
 from ui.web_element import WebElement
-import random
 
 
 class SliderPage:
-    def __init__(self, page):
+    def __init__(self, page: Page):
         self.page = page
         self.slider = WebElement(
-            page.locator("//input[@type='range']"),
-            description="Slider"
+            locator=page.locator('input[type="range"]'),
+            description="Горизонтальный слайдер"
         )
         self.value_display = WebElement(
-            page.locator("//*[@id='range']"),
-            description="Value display"
+            locator=page.locator('#range'),
+            description="Текущее значение слайдера"
         )
 
-    def set_random_value(self):
-        # 1. Получаем параметры слайдера (один раз)
-        min_val = float(self.slider.get_attribute("min"))
-        max_val = float(self.slider.get_attribute("max"))
-        step_str = self.slider.get_attribute("step")
-        step = float(step_str) if step_str else 0.5
+    def set_value_via_keyboard(self, target_value: float) -> None:
+        current_text = self.value_display.get_text_content()
+        current_value = float(current_text)
 
-        # 2. Генерируем целевое значение (не на границах)
-        # round(value / step) * step — гарантирует, что значение кратно шагу
-        target_value = random.uniform(min_val + step, max_val - step)
-        target_value = round(round(target_value / step) * step, 2)
+        step = 0.5
 
-        # 3. Получаем текущее значение
-        current_value = float(self.slider.get_attribute("value"))
-
-        # 4. Вычисляем, сколько шагов нужно сделать
         diff = target_value - current_value
-        steps_to_move = int(round(abs(diff) / step))
+        steps_count = int(abs(diff) / step)
 
-        if steps_to_move == 0:
-            return current_value
+        if diff > 0:
+            key = "ArrowRight"
+        else:
+            key = "ArrowLeft"
+        for _ in range(steps_count):
+            self.slider.locator.press(key)
 
-        # 5. Фокусируемся и эмулируем нажатия
-        self.slider.locator.focus()
-        key = "ArrowRight" if diff > 0 else "ArrowLeft"
-
-        for _ in range(steps_to_move):
-            self.page.keyboard.press(key)
-
-        # Возвращаем итоговое значение (для проверки в тесте)
-        final_value = float(self.slider.get_attribute("value"))
-        return final_value
+    def get_displayed_value(self) -> float:
+        text = self.value_display.get_text_content()
+        return float(text)

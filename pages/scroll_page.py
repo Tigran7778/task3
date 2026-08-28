@@ -1,21 +1,24 @@
 from playwright.sync_api import Page
+from ui.multi_web_element import MultiWebElement
 
 
 class ScrollPage:
     def __init__(self, page: Page):
         self.page = page
-        self.blocks = page.locator("div.jscroll-added")
+        self.blocks = MultiWebElement(
+            page=page,
+            locator=page.locator("div.jscroll-added"),
+            description="Абзацы"
+        )
 
-    def scroll_and_wait(self):
-        # Скроллим на один экран вниз
-        self.page.evaluate("window.scrollBy(0, window.innerHeight)")
-        # Даём время на подгрузку (для демо-теста этого хватит)
-        self.page.wait_for_timeout(1500)
+    def scroll_down(self):
+        last_block = self.blocks.last()
+        last_block.scroll_into_view_if_needed()
 
-    def wait_until_count(self, min_count: int, max_attempts: int = 20):
-        for attempt in range(max_attempts):
+    def wait_until_count(self, min_count: int, max_attempts: int = 50) -> int:
+        for _ in range(max_attempts):
             count = self.blocks.count()
             if count >= min_count:
-                return True, count
-            self.scroll_and_wait()
-        return False, self.blocks.count()
+                return count
+            self.scroll_down()
+        return self.blocks.count()

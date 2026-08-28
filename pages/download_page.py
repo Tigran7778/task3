@@ -10,12 +10,12 @@ class DownloadPage:
             description="Список файлов"
         )
 
-    def get_third_file_name(self) -> str:
-        third_link = self.files_list.locator.nth(2)
-        return third_link.inner_text().strip()
+    def get_file_name(self, index: int) -> str:
+        link = self.files_list.locator.nth(index)
+        return link.inner_text().strip()
 
-    def download_third_file(self):
-        third_link = self.files_list.locator.nth(2)
+    def download_file(self, index: int) -> str:
+        link = self.files_list.locator.nth(index)
         with self.page.expect_download() as download_info:
-            third_link.click()
+            link.click()
         return download_info.value

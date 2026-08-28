@@ -26,8 +26,8 @@ class UploadPage:
         self.file_input_selector.locator.set_input_files(file_path)
         self.upload_button_selector.locator.click()
 
-    def get_result_message(self):
-        # Ждем появления сообщения
-        locator = self.page.locator("h3:has-text('File Uploaded!')")
-        locator.wait_for(state='visible')
-        return locator.inner_text()
+    def get_result_message(self) -> str:
+        return self.result_message.get_inner_text()
+
+    def get_uploaded_file_name(self) -> str:
+        return self.uploaded_file_name.get_inner_text()
