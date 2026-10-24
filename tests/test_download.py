@@ -1,8 +1,6 @@
 from pathlib import Path
 from pages.download_page import DownloadPage
-
-DOWNLOAD_DIR = Path("utils/files_cache")
-DOWNLOAD_DIR.mkdir(parents=True, exist_ok=True)
+import tempfile
 
 
 def test_download_third_file(page):
@@ -16,9 +14,13 @@ def test_download_third_file(page):
 
     download = file_page.download_file(file_index)
 
-    file_path = DOWNLOAD_DIR / download.suggested_filename
-    download.save_as(file_path)
+    with tempfile.TemporaryDirectory() as tmpdir:
+        file_path = Path(tmpdir) / download.suggested_filename
+        download.save_as(file_path)
 
-    actual_name = download.suggested_filename
-    assert actual_name == expected_name, \
-        f"Имена не совпадают! Ожидалось: '{expected_name}', получено: '{actual_name}'"
+        assert file_path.exists(), f"Файл не был сохранен: {file_path}"
+        assert file_path.stat().st_size > 0, "Файл пустой"
+
+        actual_name = download.suggested_filename
+        assert actual_name == expected_name, \
+            f"Имена не совпадают! Ожидалось: '{expected_name}', получено: '{actual_name}'"

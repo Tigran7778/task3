@@ -1,4 +1,4 @@
-from playwright.sync_api import Page
+from playwright.sync_api import Page, expect
 from ui.multi_web_element import MultiWebElement
 
 
@@ -7,18 +7,20 @@ class ScrollPage:
         self.page = page
         self.blocks = MultiWebElement(
             page=page,
-            locator=page.locator("div.jscroll-added"),
+            locator=page.locator("div.jscroll-added:has(br)"),
             description="Абзацы"
         )
 
-    def scroll_down(self):
-        last_block = self.blocks.last()
-        last_block.scroll_into_view_if_needed()
-
-    def wait_until_count(self, min_count: int, max_attempts: int = 50) -> int:
-        for _ in range(max_attempts):
-            count = self.blocks.count()
-            if count >= min_count:
-                return count
-            self.scroll_down()
+    def get_paragraphs_count(self) -> int:
         return self.blocks.count()
+
+    def scroll_until(self, target: int, max_attempts: int = 30) -> int:
+        for _ in range(max_attempts):
+            count = self.get_paragraphs_count()
+            if count >= target:
+                return count
+            self.blocks.last().scroll_into_view_if_needed()
+
+            expect(self.blocks.locator).to_have_count(count + 1)
+
+        return self.get_paragraphs_count()

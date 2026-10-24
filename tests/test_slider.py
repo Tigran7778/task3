@@ -9,9 +9,17 @@ def test_slider_set_via_keyboard(page: Page):
 
     slider_page = SliderPage(page)
 
-    possible_values = [x * 0.5 for x in range(0, 11)]
+    min_value = slider_page.get_min_value()
+    max_value = slider_page.get_max_value()
+    step = slider_page.get_step_value()
 
-    non_boundary_values = [v for v in possible_values if v != 0.0 and v != 5.0]
+    possible_values = []
+    current = min_value
+    while current <= max_value:
+        possible_values.append(round(current, 2))
+        current += step
+
+    non_boundary_values = [v for v in possible_values if v != min_value and v != max_value]
 
     target_value = random.choice(non_boundary_values)
 

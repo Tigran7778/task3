@@ -6,7 +6,7 @@ def test_infinite_scroll(page):
 
     scroll_page = ScrollPage(page)
     expected_count = 10
-    actual_count = scroll_page.wait_until_count(min_count=expected_count)
+    actual_count = scroll_page.scroll_until(target=expected_count)
 
     assert actual_count >= expected_count, \
         f"Ожидалось: >= {expected_count} блоков, получено: {actual_count} блоков"

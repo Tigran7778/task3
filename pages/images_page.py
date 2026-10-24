@@ -22,11 +22,9 @@ class ImagesPage:
                 return {"success": True, "attempts": attempt, "srcs": srcs}
 
             self.page.reload()
-            self.page.wait_for_load_state("load")
 
         final_srcs = []
-        for i in range(3):
-            image = self.images.nth(i)
+        for image in self.images.all():
             final_srcs.append(image.get_attribute("src") or "")
 
         return {"success": False, "attempts": max_attempts, "srcs": final_srcs}

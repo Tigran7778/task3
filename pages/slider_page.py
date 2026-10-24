@@ -14,11 +14,23 @@ class SliderPage:
             description="Текущее значение слайдера"
         )
 
+    def get_step_value(self) -> float:
+        step_attr = self.slider.locator.get_attribute("step")
+        return float(step_attr)
+
+    def get_min_value(self) -> float:
+        min_attr = self.slider.locator.get_attribute("min")
+        return float(min_attr)
+
+    def get_max_value(self) -> float:
+        max_attr = self.slider.locator.get_attribute("max")
+        return float(max_attr)
+
     def set_value_via_keyboard(self, target_value: float) -> None:
         current_text = self.value_display.get_text_content()
         current_value = float(current_text)
 
-        step = 0.5
+        step = self.get_step_value()
 
         diff = target_value - current_value
         steps_count = int(abs(diff) / step)

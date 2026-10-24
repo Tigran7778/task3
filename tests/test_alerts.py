@@ -1,18 +1,15 @@
 from playwright.sync_api import sync_playwright
 from pages.alerts_page import AlertsPage
-import random
-import string
+from faker import Faker
 
+fake = Faker()
 
 def test_alerts(page):
     url = "https://the-internet.herokuapp.com/javascript_alerts"
     alerts_page = AlertsPage(page)
     page.goto(url)
 
-    def generate_random_text(length=8):
-        return "".join(random.choices(string.ascii_letters + string.digits, k=length))
-
-    entered_text = generate_random_text()
+    entered_text = fake.password()
 
     def handle_dialog_alert(dialog):
         dialog.accept()
