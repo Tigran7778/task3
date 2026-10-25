@@ -4,6 +4,11 @@ from ui.multi_web_element import MultiWebElement
 import re
 
 
+def is_valid_name_user_format(text: str) -> bool:
+    pattern = r"^name:\s*user\d+$"
+    return re.fullmatch(pattern, text) is not None
+
+
 class HoversPage:
     def __init__(self, page: Page):
         self.page = page
@@ -34,9 +39,3 @@ class HoversPage:
         for card in self.cards:
             names.append(self._get_name_element(card).get_inner_text())
         return names
-
-    @staticmethod
-    def validate_format(text: str) -> bool:
-        """Проверяет формат 'name: userN'"""
-        pattern = r"^name:\s*user\d+$"
-        return re.fullmatch(pattern, text) is not None

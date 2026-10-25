@@ -69,3 +69,7 @@ class WebElement:
     def set_input_files(self, file_path: Path) -> None:
         logger.info(f"{self}: set input files '{file_path}'")
         self.locator.set_input_files(file_path)
+
+    def wait_for(self, state: str = "visible") -> None:
+        logger.info(f"{self}: wait for state '{state}'")
+        self.locator.wait_for(state=state)
